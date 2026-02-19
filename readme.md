@@ -39,4 +39,6 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ```bash
 > FwX: Olá Mundo!
 > FwX: Carregando dados..
-> FwX: 404.
+> <fwx>
+>   404
+> </fwx>
