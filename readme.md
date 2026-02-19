@@ -9,7 +9,7 @@
 
 ---
 
-## 🌙 _Sobre Mim_
+## 🌙 Sobre Mim
 
 Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
@@ -24,7 +24,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
 <p align="center">
   <a href="https://unun.app">
-    <img src="https://img.shields.io/badge/Acessar%20UnUn%20Studios-ff69b4?style=for-the-badge">
+    `Acessar: UnUn Studios`
   </a>
 </p>
 
@@ -45,4 +45,4 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ```bash
 > FwX: Olá Mundo!
 > FwX: Carregando dados..
-> FwX: 404.
+> FwX: 404.```
