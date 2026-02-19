@@ -13,10 +13,10 @@
 
 Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
- - ✨ Desenvolvimento Web
- - ✨ Projetos Criativos
- - ✨ Experimentos Digitais
- - ✨ Interfaces Modernas  
+ ✨ Desenvolvimento Web
+ ✨ Projetos Criativos
+ ✨ Experimentos Digitais
+ ✨ Interfaces Modernas  
 
 Cada projeto é um novo arco da história.
 
