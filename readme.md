@@ -1,6 +1,6 @@
-<h1 align="center">🚀 FlowniX</h1>
+<h1 align="center">🪩 FlowniX</h1>
 <p align="center">
-  Fundador & Lead Developer — UnUn Studios
+  Fundador & Desnvolvedor — UnUn Studios
 </p>
 
 ---
@@ -18,7 +18,7 @@ A **UnUn Studios** é um projeto independente focado em inovação digital, dese
 
 ## 🔗 Acesse o site
 
-🌍 https://seusite.com  
+🌍 https://unun.app  
 
 ---
 
@@ -27,7 +27,7 @@ A **UnUn Studios** é um projeto independente focado em inovação digital, dese
 - HTML5  
 - CSS3  
 - JavaScript  
-- UI/UX Design  
+- UI/UX Design
 
 ---
 
