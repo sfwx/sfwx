@@ -9,7 +9,7 @@
 
 ---
 
-## 🌙 *Sobre Mim*
+## 🌙 _Sobre Mim_
 
 Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
