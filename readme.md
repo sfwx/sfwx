@@ -23,8 +23,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ## 🌐 Portal Oficial
 
 <p align="center">
-  <a href="https://unun.app">
-    `Acessar: UnUn Studios`
+    [`Acessar: UnUn Studios`](https://unun.app)
   </a>
 </p>
 
