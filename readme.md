@@ -36,9 +36,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
 ## 🌌 Status Atual
 
-```bash
+```html
 > FwX: Olá Mundo!
 > FwX: Carregando dados..
-> <fwx>
->   404
-> </fwx>
+> <fwx> 404 </fwx>
