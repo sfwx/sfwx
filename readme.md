@@ -13,19 +13,17 @@
 
 Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
-- Desenvolvimento Web
-- Projetos Criativos
-- Experimentos Digitais
-- Interfaces Modernas
-
-Cada projeto é um novo arco da história.
+- ✨ Desenvolvimento Web
+- ✨ Projetos Criativos
+- ✨ Experimentos Digitais
+- ✨ Interfaces Modernas
 
 ---
 
 ## 🌐 Portal Oficial
 
 <p align="center">
-  <a href="https://seusite.com">
+  <a href="https://unun.app">
     <img src="https://img.shields.io/badge/Acessar%20UnUn%20Studios-ff69b4?style=for-the-badge">
   </a>
 </p>
@@ -45,6 +43,6 @@ Cada projeto é um novo arco da história.
 ## 🌌 Status Atual
 
 ```bash
-> Inicializando UnUn Studios...
-> Carregando criatividade...
-> Sistema pronto.
+> FwX: Olá Mundo!
+> FwX: Carregando dados..
+> FwX: 404.
