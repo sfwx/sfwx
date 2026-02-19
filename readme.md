@@ -9,14 +9,14 @@
 
 ---
 
-## 🌙 Sobre Mim
+## 🌙 *Sobre Mim*
 
 Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
 - ✨ `Desenvolvimento Web`
-- ✨ Projetos Criativos
-- ✨ Experimentos Digitais
-- ✨ Interfaces Modernas
+- ✨ `Projetos Criativos`
+- ✨ `Experimentos Digitais`
+- ✨ `Interfaces Modernas`
 
 ---
 
