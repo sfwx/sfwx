@@ -40,3 +40,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 > FwX: Olá Mundo!
 > FwX: Carregando dados..
 > <fwx> 404 </fwx>
+
+---
+
+<h1 align="center"><b>404.</b></h1>
