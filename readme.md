@@ -37,6 +37,17 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 
 ---
 
+## 🪩 Projetos
+
+<p align="center">
+  <img src="https://sfwx.github.io/image/card/fwx.png">
+  <img src="https://sfwx.github.io/image/card/floral-capes.png">
+  <br>
+  <img src="https://sfwx.github.io/image/card/mcstructure.png">
+</p>
+
+---
+
 ## 🌌 Status Atual
 
 ```bash
