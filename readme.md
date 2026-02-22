@@ -7,7 +7,7 @@
   <b>FlowniX</b>
 </h1>
 <p align="center">
-  Fundador da <b>UnUn Studios</b> <img src="https://sfwx.github.io/image/icon/index.png" width="22.5px">
+  Fundador da <b>UnUn Studios</b> <img src="https://sfwx.github.io/image/icon/index.png" width="20px">
 </p>
 
 ---
