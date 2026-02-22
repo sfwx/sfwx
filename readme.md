@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://sfwx.github.io/image/icon/index.png" width="25px">
+  <img src="https://sfwx.github.io/image/icon/index.png" width="20px">
   <b>FlowniX</b>
 </h1>
 <p align="center">
