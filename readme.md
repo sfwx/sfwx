@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>FlowniX</b></h1>
 <p align="center">
-  Fundador da <b>UnUn Studios</b> ✨
+  Fundador da <b>UnUn Studios</b> <img src="https://sfwx.github.io/image/icon/index.png" width="20px">
 </p>
 
 ---
@@ -40,8 +40,6 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ## 🪩 Projetos
 
 <p align="center">
-  <b>• ...</b>
-  <br><br>
   <img src="https://sfwx.github.io/image/card/fwx.png">
   <hr>
   <b>• Explore nossa ferramenta de criação de capas! Personalize sua skin com capas exclusivas.</b>
