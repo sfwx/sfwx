@@ -40,8 +40,6 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ## 🪩 Projetos
 
 <p align="center">
-  <img src="https://sfwx.github.io/image/card/fwx.png">
-  <hr>
   <b>• Explore nossa ferramenta de criação de capas! Personalize sua skin com capas exclusivas.</b>
   <br>
   <a href="https://sfwx.github.io/floral">Clique aqui</a> para acessar o projeto.
