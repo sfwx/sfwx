@@ -67,7 +67,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 <h1 align="center">
   <b>
     <fwx>
-      404.
+      404
     </fwx>
   </b>
 </h1>
