@@ -21,7 +21,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ---
 
 ## 🌐 Portal Oficial
-### Acesse: [`UnUn Studios`](https://unun.app) <img src="https://sfwx.github.io/image/icon/index.png" width="25px">
+### Acesse: [`UnUn Studios`](https://unun.app) <img src="https://sfwx.github.io/image/icon/index.png" width="1.25px">
 ---
 
 ## ⚔️ Habilidades
