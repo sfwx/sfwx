@@ -7,7 +7,7 @@
   <b>FlowniX</b>
 </h1>
 <p align="center">
-  Fundador da <b>UnUn Studios</b> <img src="https://sfwx.github.io/image/icon/index.png" width="20px">
+  Fundador da <b>UnUn Studios</b> <img src="https://cdn.discordapp.com/attachments/1008614813695492168/1470124392397803640/amariny.png?ex=699b4b08&is=6999f988&hm=e1abfab8573f933a91e665ce1cb8e00ff4ee48bf112ac722b194b241d26bda9f&" width="20px">
 </p>
 
 ---
@@ -24,7 +24,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ---
 
 ## 🌐 Portal Oficial
-### Acesse: [`UnUn Studios`](https://unun.app) <img src="https://sfwx.github.io/image/icon/index.png" width="20px">
+### Acesse: [`UnUn Studios`](https://unun.app) <img src="https://cdn.discordapp.com/attachments/1008614813695492168/1470124392397803640/amariny.png?ex=699b4b08&is=6999f988&hm=e1abfab8573f933a91e665ce1cb8e00ff4ee48bf112ac722b194b241d26bda9f&" width="20px">
 ---
 
 ## ⚔️ Habilidades
