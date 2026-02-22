@@ -46,7 +46,7 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ---
 
 - **Editor online de NBT e JSON para itens, projetado para criar, editar e validar dados de forma rápida e eficiente.**
-- `Clique para acessar o projeto.` [`/mcstructure`](https://sfwx.github.io/mcstructure)
+`Clique para acessar o projeto.` [`/mcstructure`](https://sfwx.github.io/mcstructure)
 <img src="https://sfwx.github.io/image/card/mcstructure.png">
 
 ---
