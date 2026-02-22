@@ -40,13 +40,16 @@ Sou criador da **UnUn Studios**, um estúdio digital independente focado em:
 ## 🪩 Projetos
 
 <p align="center">
-  ...
+  - ...
+  <br>
   <img src="https://sfwx.github.io/image/card/fwx.png">
   <hr>
-  Explore nossa ferramenta de criação de capas! Personalize sua skin com capas exclusivas.
+  - Explore nossa ferramenta de criação de capas! Personalize sua skin com capas exclusivas.
+  <br>
   <img src="https://sfwx.github.io/image/card/floral-capes.png">
   <hr>
-  Editor online de NBT e JSON para itens, projetado para criar, editar e validar dados de forma rápida e eficiente.
+  - Editor online de NBT e JSON para itens, projetado para criar, editar e validar dados de forma rápida e eficiente.
+  <br>
   <img src="https://sfwx.github.io/image/card/mcstructure.png">
 </p>
 
